@@ -245,12 +245,11 @@
 
             <Button
                 android:id="@+id/Buttonhelp"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="55dp"
+                android:layout_height="50dp"
                 android:textStyle="italic"
-                android:background="@color/Grey"
-                android:layout_gravity="bottom"
-                android:text="Help" />
+                android:background="@drawable/help"
+                android:layout_gravity="bottom" />
 
             <Space
                 android:layout_width="wrap_content"

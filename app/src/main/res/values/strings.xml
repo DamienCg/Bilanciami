@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Bilanciami</string>
+    <string name="descplus">Aggiunge uno stipendio,\nmostra il nuovo saldo Totale\ne il nuovo saldo disponibile,\n\nTotale = (Nuovo stipendio - Spese fisse)\nFree = (Nuovo stipendio - Spese fisse - Obiettivi - Risparmi)\nRisparmi = (Risparmi + (% Decisa))\nObiettivi = (Obiettivi + (% Decisa))\n</string>
+    <string name="descminus">Paga una spesa (suggerimento: può essere usata come calcolo finale del mese)\nmostra il nuovo saldo Free e Totale\nFree = (Free - Spesa)\nTotale = (Totale - spesa) solo se Free maggiore uguale alla spesa </string>
+    <string name="descrisparmi">Totale del fondo risparmi, è possibile stabilire che percentuale dello stipendio accantonare sul fondo risparmi </string>
+    <string name="descspesefisse">Calcolo approssimativo delle spese fisse mensili (affitto,bollette,assicurazione,rate ecc)\nTotale spese fisse estinte/spese fisse al mese</string>
+    <string name="descobiettivi">Percentuale o accantonamento fisso da dedicare ad un obietto (vacanza, progetto ecc)\nSuggerimento:(puoi sommare più obiettivi in un unico target)\nDenaro accantonato/Target da raggiungere</string>
 </resources>
